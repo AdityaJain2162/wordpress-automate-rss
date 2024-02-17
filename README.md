@@ -5,7 +5,7 @@ This Python script fetches news articles from RSS feeds and automatically posts 
 ## Installation
 
 1. Clone the repository:
-git clone [https://github.com/your-username/your-repository.git](https://github.com/AdityaJain2162/wordpress-automate-rss.git)
+git clone [https://github.com/AdityaJain2162/wordpress-automate-rss.git](https://github.com/AdityaJain2162/wordpress-automate-rss.git)
 
 2. Install the required Python packages:
 pip install feedparser newspaper3k requests
